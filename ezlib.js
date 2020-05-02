@@ -7,5 +7,5 @@ Array.prototype.sort_by = function (name) {
             return -1;
         }
         return 0;
-    }
+    })
 }
